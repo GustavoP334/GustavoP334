@@ -30,6 +30,8 @@
 # Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoP334&show_icons=true&theme=tokyonight)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **GustavoP334/GustavoP334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
