@@ -12,6 +12,7 @@
 <img alt="java" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></img>
 <img alt="angular" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></img>
 <img alt="PHP" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></img>
+<img alt="laravel" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"></img>
 <img alt="mysql" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></img>
 <img alt="mongodb" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></img>
 <img alt="postgresql" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></img>
