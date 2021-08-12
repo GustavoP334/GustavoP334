@@ -21,7 +21,8 @@
 <img alt="css" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></img>
 <img alt="linux" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></img>
 <img alt="doccer" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></img>
-
+<img alt="python" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></img>
+<img alt="c" height="60" width="70" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></img>
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoP334)](https://github.com/GustavoP334/github-readme-stats)
